@@ -8,8 +8,10 @@ use ## to cfreate header 2
 
 ## this is heading 2
 
-_This is bold_
+_This is italic_
 
+
+*this is bold*
 
 ```
 this is it 
