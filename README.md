@@ -1,8 +1,5 @@
 this is rahul
-Shiva
 
-use # to create Header 1
-use ## to cfreate header 2
 
 # this is heading 1
 
